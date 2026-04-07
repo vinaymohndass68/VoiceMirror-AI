@@ -1,0 +1,7 @@
+{
+  "name": "VoiceMirror AI",
+  "description": "A character creation platform where AI learns your linguistic patterns from a voice sample and interacts with you using a custom-tailored persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
